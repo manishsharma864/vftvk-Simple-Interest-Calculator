@@ -1,4 +1,42 @@
-body {background-color:tan;}
-h1{color:green;}
+.calc {
+    background-color:white;
+height: 60vh;
+width: 100vw;
+border-radius: 10px;
+margin: 5vw;
+justify-content: center;
+align-items: center;
+padding-left: 10vw;
+
+}
+.footer{
+ text-align: left;
+position: sticky;
+
+    margin-top: 10vh;
+}
+input{
+    margin-left: 20vw;
+    align-items: center;
+}
+select{
+    margin-left: 25vw;
+}
+#rate{
+    margin-left: 23vw; 
+}
+body{
+    background-color: black;
+    display: flex;
+}
+h1{color:lightgray;
+    font-weight:bold;
+    
+padding-left: 20px;
+}
 
 
+button{
+
+    margin-top: 5px;
+}
